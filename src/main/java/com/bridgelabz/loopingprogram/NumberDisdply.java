@@ -16,6 +16,9 @@ public class NumberDisdply {
             System.out.println("Hundred");
         } else if (number==1000) {
             System.out.println("Thousand");
+        } else if (number==10000) {
+            System.out.println(" Ten Thousand");
+
         } else {
             System.out.println("Invalid Number");
 
