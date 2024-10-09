@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class SumOfNaturalNumber {
     public static void main(String[] args) {
-        int n=10;
+        int n=15;
         int sum =0;
         int i = 1;
 
