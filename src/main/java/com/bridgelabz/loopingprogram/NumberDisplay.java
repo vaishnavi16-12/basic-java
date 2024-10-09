@@ -2,7 +2,7 @@ package com.bridgelabz.loopingprogram;
 
 import java.util.Scanner;
 
-public class NumberDisdply {
+public class NumberDisplay {
     public static void main(String[] args) {
         Scanner sc= new Scanner(System.in);
         System.out.println("Enter The Number: ");
